@@ -1,2 +1,2 @@
 # HBBK-Vertretungsplan
-:calendar: :de: Vertretungsplan für das Hans-Böckler-Berufskllog Münster
+Vertretungsplan für das Hans-Böckler-Berufskllog Münster, vorab Web-Version: https://sk-cdn.net/apps/hbbk-stundenplan/v3
